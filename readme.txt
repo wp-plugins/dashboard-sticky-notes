@@ -3,8 +3,8 @@ Contributors: Hiroaki Miyashita
 Donate link: http://www.cmswp.jp/plugins/dashboard_sticky_notes/
 Tags: dashboard, sticky notes, note, notes, sticky, memo
 Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 This plugin adds the functionality to add sticky notes into the dashboard.
@@ -33,6 +33,9 @@ Nothing.
 Nothing.
 
 == Changelog ==
+
+= 1.0.1 =
+* Code cleaning.
 
 = 1.0 =
 * Initial release.
