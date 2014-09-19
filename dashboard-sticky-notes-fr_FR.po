@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dashboard Sticky Notes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-11 17:54+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eric Lowry <ericlowry14@gmail.com>\n"
+"Language-Team: Eric Lowry <ericlowry14@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard-sticky-notes.php:48 dashboard-sticky-notes.php:50
+msgid "Sticky Notes"
+msgstr "Pense-Bêtes"
+
+#: dashboard-sticky-notes.php:49 dashboard-sticky-notes.php:51
+msgid "Sticky Note"
+msgstr "Pense-Bête"
+
+#: dashboard-sticky-notes.php:52
+msgid "Add New"
+msgstr "Ajouter un Pense-Bête"
+
+#: dashboard-sticky-notes.php:53
+msgid "Add New Sticky Note"
+msgstr "Ajouter un Nouveau Pense-Bête"
+
+#: dashboard-sticky-notes.php:54
+msgid "New Sticky Note"
+msgstr "Nouveau Pense-Bête"
+
+#: dashboard-sticky-notes.php:55
+msgid "Edit Sticky Note"
+msgstr "Éditer le  Pense-Bête"
+
+#: dashboard-sticky-notes.php:56
+msgid "View Sticky Note"
+msgstr "Voir le  Pense-Bête"
+
+#: dashboard-sticky-notes.php:57
+msgid "All Sticky Notes"
+msgstr "Tous les Pense-Bêtes"
+
+#: dashboard-sticky-notes.php:58
+msgid "Search Sticky Notes"
+msgstr "Rechercher un Pense-Bête"
+
+#: dashboard-sticky-notes.php:59
+msgid "No Sticky Notes found."
+msgstr "Aucun Pense-Bête n'a été trouvé."
+
+#: dashboard-sticky-notes.php:60
+msgid "No Sticky Notes found in Trash."
+msgstr "Aucun Pense-Bête n'a été trouvé dans la corbeille."
+
+#: dashboard-sticky-notes.php:102
+msgid "Output Option"
+msgstr "Options d'Affichage"
+
+#: dashboard-sticky-notes.php:112
+msgid "Context"
+msgstr "Contexte"
+
+#: dashboard-sticky-notes.php:114
+msgid "Normal"
+msgstr "Normale"
+
+#: dashboard-sticky-notes.php:115
+msgid "Side"
+msgstr "Côté"
+
+#: dashboard-sticky-notes.php:118
+msgid "Priority"
+msgstr "Priorité"
+
+#: dashboard-sticky-notes.php:120
+msgid "High"
+msgstr "Élevée"
+
+#: dashboard-sticky-notes.php:121
+msgid "Low"
+msgstr "Faible"
+
+#: dashboard-sticky-notes.php:125
+msgid "Target"
+msgstr "Cibles"

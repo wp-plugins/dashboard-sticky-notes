@@ -4,7 +4,7 @@ Donate link: http://www.cmswp.jp/plugins/dashboard_sticky_notes/
 Tags: dashboard, sticky notes, note, notes, sticky, memo
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 This plugin adds the functionality to add sticky notes into the dashboard.
@@ -15,6 +15,7 @@ The Dashboard Sticky Notes plugin adds the functionality to add sticky notes int
 
 Localization
 
+* French (fr_FR) - [Eric Lowry](http://ericlowry.fr/)
 * Japanese (ja) - [Hiroaki Miyashita](http://wpgogo.com/)
 
 == Installation ==
@@ -33,6 +34,9 @@ Nothing.
 Nothing.
 
 == Changelog ==
+
+= 1.0.2 =
+* French.
 
 = 1.0.1 =
 * Code cleaning.

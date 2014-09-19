@@ -4,7 +4,7 @@ Plugin Name: Dashboard Sticky Notes
 Plugin URI: http://www.cmswp.jp/plugins/dashboard_sticky_notes/
 Description: This plugin adds the functionality to add sticky notes into the dashboard.
 Author: Hiroaki Miyashita
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://www.cmswp.jp/
 Text Domain: dashboard-sticky-notes
 Domain Path: /
@@ -72,6 +72,7 @@ class dashboard_sticky_notes {
 			'has_archive'        => false,
 			'hierarchical'       => false,
 			'menu_position'      => 100,
+			'menu_icon'          => 'dashicons-welcome-write-blog',
 			'supports'           => array( 'title', 'editor', 'author' )
 		);
 		register_post_type( 'dsn', $args );		
